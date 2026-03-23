@@ -1,6 +1,6 @@
 ---
 name: paper-formula-chart-skill
-description: Extract figures, tables, and equations from academic papers (PDF) with precise coordinates. Use when asked to parse, analyze, or extract content from research papers — specifically: (1) identifying figures/charts/diagrams, (2) locating tables, (3) finding mathematical equations/formulas, (4) generating annotated page images with bounding boxes, (5) saving cropped element images with coordinate metadata in JSON. Triggered by requests like "extract figures from paper", "parse PDF layout", "analyze paper charts/tables", "scan paper formulas with coordinates".
+description: "Extract figures, tables, and equations from academic papers (PDF) with precise coordinates. Triggered when asked to: parse PDF layout, extract figure/chart/diagram bounding boxes, locate tables, find mathematical equations, generate annotated page images with colored boxes, save cropped element images with JSON coordinate metadata."
 ---
 
 # Paper Figure/Table/Equation Extraction
